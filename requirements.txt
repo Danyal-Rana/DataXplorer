@@ -4,3 +4,4 @@ pandas
 plotly
 seaborn
 streamlit
+libtk8.6
