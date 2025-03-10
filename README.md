@@ -94,4 +94,4 @@ This project is open-source under the MIT License.
 For any issues or suggestions, feel free to reach out!
 
 📧 Email: temp@mdrana.com  
-🔗 GitHub: [Your GitHub Profile](https://github.com/Danyal-Rana)
+🔗 GitHub: [Danyal Rana](https://github.com/Danyal-Rana)
